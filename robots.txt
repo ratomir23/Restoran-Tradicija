@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restoran-tradicija.rs/sitemap.xml
